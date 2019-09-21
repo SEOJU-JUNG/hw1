@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #bedeac;
+}
+#defaultCanvas0 {
+  position: relative;
+  left: 50%;
+  margin-left: -40vh;
+  margin-top: 10vh;
+  display: block;
+  padding: 0;
+  /* width: 1000px;
+  height: 800px; */
+}
